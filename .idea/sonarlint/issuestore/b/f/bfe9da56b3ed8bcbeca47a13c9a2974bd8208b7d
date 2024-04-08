@@ -1,0 +1,15 @@
+
+J
+java:S1604J"(Make this anonymous inner class a lambda(ν–„ύÿÿÿÿ8ΩΚΊ1
+E	java:S108?")Either remove or fill this block of code.(Ε΅ί8ÿΚΊ1
+L
+java:S1172G"/Remove this unused method parameter "fragment".(ίξ®8€‚ΚΊ1
+V
+java:S1854Q"9Remove this useless assignment to local variable "value".(ιη 8‚‚ΚΊ1
+]	java:S125P"<This block of commented-out lines of code should be removed.(δη¤Ψϋÿÿÿÿ8‡΅ΚΊ1
+G
+java:S1481Q"*Remove this unused "value" local variable.(ιη 8‡‚ΚΊ1
+]	java:S125R"<This block of commented-out lines of code should be removed.(ªΑµ§ώÿÿÿÿ8‡‚ΚΊ1
+U
+java:S1128
+"8Remove this unused import 'java.util.function.Function'.(»³Ν8Υ¶νΊ1
